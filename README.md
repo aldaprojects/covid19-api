@@ -1,5 +1,5 @@
-# covid19-api
-API creada con NodeJS, Uso de web scraping para extraer datos de worldometers.info sobre el coronavirus
+## REST API build with Node JS to monitor covid-19 using web scrapping
 
+REST API build with NodeJS to monitor the status of the covid-19 pandemic in real time.
 
-Explicación de cómo se realizó esta API en Youtube: https://www.youtube.com/playlist?list=PLXok7ifWY45QHYV8QjkfWNbkAkQ1H1m6V
+Scraps info from worldometers.info to make a memory db about history cases, global reports, history countries of covid-19
